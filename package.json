@@ -1,0 +1,28 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "My Blog web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitSaraswat/Blogger.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "DEVELOPMENT"
+  ],
+  "author": "Mohit Saraswat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohitSaraswat/Blogger/issues"
+  },
+  "homepage": "https://github.com/MohitSaraswat/Blogger#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
+}
